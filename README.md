@@ -1,6 +1,6 @@
 
 # [APKGen](http://apkgen.digital)
-This project is about automated generation of Android Application from URL. It uses various Devops tools such as Jenkins, Rundeck, RabbitMQ, Log4J. This repository is a link to other repositories that were used for development of this project.
+This project is about automated generation of Android Application from URL. It uses various Devops tools such as Jenkins, Rundeck, RabbitMQ, ELK Stack. This repository is a link to other repositories that were used for development of this project.
 
 
 ## Usage
